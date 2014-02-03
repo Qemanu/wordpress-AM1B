@@ -1,1 +1,1 @@
-Dit is een repository voor de wordpress site
+Dit is een repository voor de wordpress site..
